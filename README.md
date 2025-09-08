@@ -24,7 +24,7 @@
     Core Skills
   </h2>
   <p style="margin-top: 0.5em; margin-bottom: 2rem; font-size: 1em;">
-    <strong>Data &amp; BI:</strong> SQL (SSMS)&nbsp;| Tableau&nbsp;| Excel<br>
+    <strong>Data &amp; BI:</strong> SQL&nbsp;| Tableau&nbsp;| Excel<br>
     <strong>Python:</strong> NumPy&nbsp;| pandas&nbsp;| Matplotlib<br>
     <strong>Game Development:</strong> C#&nbsp;| JavaScript&nbsp;| Unity
   </p>
