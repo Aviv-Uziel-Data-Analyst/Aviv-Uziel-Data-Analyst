@@ -10,9 +10,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-orange)
 ![Excel](https://img.shields.io/badge/Excel-darkgreen)
 ![Python](https://img.shields.io/badge/Python-yellowgreen) 
-![C#](https://img.shields.io/badge/C%23-red)
-![Javascript](https://img.shields.io/badge/Javascript-gray)
-![Unity](https://img.shields.io/badge/Unity-forestgreen)
 
   <!-- Subtitle -->
   <p style="font-size: 1.1em; color: #57606a; margin-top: 0; margin-bottom: 1.5em;">
