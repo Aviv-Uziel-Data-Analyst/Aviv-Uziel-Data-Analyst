@@ -15,8 +15,8 @@
     Core Skills
   </h2>
   <p style="margin-top: 0.5em; margin-bottom: 2rem; font-size: 1em;">
-    <strong>Data &amp; BI:</strong> SQL (SSMS)&nbsp;| Tableau&nbsp;| Excel<br>
-    <strong>Python:</strong> NumPy&nbsp;| pandas&nbsp;| Matplotlib<br>
+    <strong>Data &amp; BI:</strong> SQL (SSMS)&nbsp;| Tableau&nbsp;| PowerBI&nbsp;| Excel <br>
+    <strong>Python:</strong> NumPy&nbsp;| Pandas&nbsp;| Matplotlib<br>
     <strong>Development:</strong> C#&nbsp;| JavaScript
   </p>
 
