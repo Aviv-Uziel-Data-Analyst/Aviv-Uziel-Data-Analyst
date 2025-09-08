@@ -1,13 +1,20 @@
 <!-- Paste this into your profile README (Avivor22/Avivor22) -->
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; color: #24292e; line-height: 1.6; margin: 2rem; text-align: center;">
+
   <!-- Main Title -->
-  <h1 style="font-size: 2.5em;">
+  <h1 style="font-size: 2.5em; margin-bottom: 0.5rem;">
     Data Analyst &amp; Coding Enthusiast
   </h1>
+  
+  <!-- Top Thick Line -->
+  <hr style="border:0; border-top:3px solid #e1e4e8; margin: 2rem 0;" />
 
   <!-- Subtitle -->
-  <p style="font-size: 1.1em; color: #57606a; margin-top: 2rem; margin-bottom: 1.5em;">
-    Analiza College Graduate (GPA: 96) | Self-taught Game Dev since 14
+  <p style="font-size: 1.1em; color: #57606a; margin-top: 0; margin-bottom: 1.5em;">
+    Graduate of 
+    <a href="https://www.analiza.org.il/data-expert" style="color: #0969da; text-decoration: none;">
+      "Analiza College"
+    </a>&nbsp;| GPA 96 | Self-taught Game Dev since 14
   </p>
 
   <!-- Skills Section -->
@@ -15,8 +22,8 @@
     Core Skills
   </h2>
   <p style="margin-top: 0.5em; margin-bottom: 2rem; font-size: 1em;">
-    <strong>Data &amp; BI:</strong> SQL (SSMS)&nbsp;| Tableau&nbsp;| PowerBI&nbsp;| Excel <br>
-    <strong>Python:</strong> NumPy&nbsp;| Pandas&nbsp;| Matplotlib<br>
+    <strong>Data &amp; BI:</strong> SQL (SSMS)&nbsp;| Tableau&nbsp;| Excel<br>
+    <strong>Python:</strong> NumPy&nbsp;| pandas&nbsp;| Matplotlib<br>
     <strong>Development:</strong> C#&nbsp;| JavaScript
   </p>
 
@@ -32,11 +39,12 @@
     decisions.
   </p>
 
-  <!-- Spacer -->
-  <hr style="border:0; border-top:1px solid #e1e4e8; margin: 2rem 0;" />
+  <!-- Bottom Thick Line -->
+  <hr style="border:0; border-top:3px solid #e1e4e8; margin: 2rem 0;" />
 
   <!-- Call to Explore Projects -->
   <p style="font-size: 1em; margin-top: 0; color: #24292e;">
     ⬇️ Feel free to check out my <strong>Projects Below ⬇️</strong>
   </p>
+  
 </div>
