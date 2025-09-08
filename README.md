@@ -41,7 +41,7 @@
 
   <!-- Call to Explore Projects -->
   <p style="font-size: 1em; margin-top: 2rem; color: #24292e;">
-    Feel free to check out my <strong>Projects Below ⬇️</strong>
+   ⬇️ Feel free to check out my <strong>Projects Below ⬇️</strong>
   </p>
   
 </div>
