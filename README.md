@@ -3,7 +3,7 @@
 
   <!-- Main Title -->
   <h1 style="font-size: 2.5em; margin-bottom: 0.5rem;">
-    Data Analyst &amp; Coding Enthusiast
+    Data Analyst
   </h1>
   
 ![SQL](https://img.shields.io/badge/SQL-blue) 
