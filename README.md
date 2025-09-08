@@ -1,13 +1,12 @@
 <!-- Paste this into your profile README (Avivor22/Avivor22) -->
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; color: #24292e; line-height: 1.6; margin: 2rem; text-align: center;">
-
   <!-- Main Title -->
-  <h1 style="font-size: 2.5em; margin-bottom: 0.25em;">
+  <h1 style="font-size: 2.5em;">
     Data Analyst &amp; Coding Enthusiast
   </h1>
 
   <!-- Subtitle -->
-  <p style="font-size: 1.1em; color: #57606a; margin-top: 0; margin-bottom: 1.5em;">
+  <p style="font-size: 1.1em; color: #57606a; margin-top: 2rem; margin-bottom: 1.5em;">
     Analiza College Graduate (GPA: 96) | Self-taught Game Dev since 14
   </p>
 
@@ -33,15 +32,11 @@
     decisions.
   </p>
 
-  <!-- Contact -->
-  <p style="font-size: 0.9em; color: #57606a; margin-top: 1rem;">
-    📧 aviv.uzi@gmail.com &nbsp;|&nbsp;  
-    🔗 <a href="https://www.linkedin.com/in/aviv-uziel-5323851a8" style="color: #0969da; text-decoration: none;">LinkedIn</a>
-  </p>
+  <!-- Spacer -->
+  <hr style="border:0; border-top:1px solid #e1e4e8; margin: 2rem 0;" />
 
   <!-- Call to Explore Projects -->
-  <p style="font-size: 1em; margin-top: 2rem; color: #24292e;">
-   ⬇️ Feel free to check out my <strong>Projects Below ⬇️</strong>
+  <p style="font-size: 1em; margin-top: 0; color: #24292e;">
+    ⬇️ Feel free to check out my <strong>Projects Below ⬇️</strong>
   </p>
-  
 </div>
