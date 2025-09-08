@@ -5,9 +5,6 @@
   <h1 style="font-size: 2.5em; margin-bottom: 0.5rem;">
     Data Analyst &amp; Coding Enthusiast
   </h1>
-  
-  <!-- Top Thick Line -->
-  <hr style="border:0; border-top:3px solid #e1e4e8; margin: 2rem 0;" />
 
   <!-- Subtitle -->
   <p style="font-size: 1.1em; color: #57606a; margin-top: 0; margin-bottom: 1.5em;">
