@@ -1,16 +1,47 @@
-## Hi there 👋
+<!-- Paste this into your profile README (Avivor22/Avivor22) -->
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; color: #24292e; line-height: 1.6; margin: 2rem; text-align: center;">
 
-<!--
-**Aviv-Uziel-Data-Analyst/Aviv-Uziel-Data-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Main Title -->
+  <h1 style="font-size: 2.5em; margin-bottom: 0.25em;">
+    Data Analyst &amp; Coding Enthusiast
+  </h1>
 
-Here are some ideas to get you started:
+  <!-- Subtitle -->
+  <p style="font-size: 1.1em; color: #57606a; margin-top: 0; margin-bottom: 1.5em;">
+    Analiza College Graduate (GPA: 96) | Self-taught Game Dev since 14
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Skills Section -->
+  <h2 style="font-size: 1.5em; margin-bottom: 0.5em; border-bottom: 2px solid #e1e4e8; display: inline-block; padding-bottom: 0.25em;">
+    Core Skills
+  </h2>
+  <p style="margin-top: 0.5em; margin-bottom: 2rem; font-size: 1em;">
+    <strong>Data &amp; BI:</strong> SQL (SSMS)&nbsp;| Tableau&nbsp;| Excel<br>
+    <strong>Python:</strong> NumPy&nbsp;| pandas&nbsp;| Matplotlib<br>
+    <strong>Development:</strong> C#&nbsp;| JavaScript
+  </p>
+
+  <!-- About Me -->
+  <h2 style="font-size: 1.5em; margin-bottom: 0.5em; border-bottom: 2px solid #e1e4e8; display: inline-block; padding-bottom: 0.25em;">
+    About Me
+  </h2>
+  <p style="margin-top: 0.5em; margin-bottom: 2rem; font-size: 1em; max-width: 600px; margin-left: auto; margin-right: auto;">
+    Passionate data analyst skilled in turning raw data into actionable insights and building  
+    interactive dashboards. Graduated top of my class (GPA 96) from Analiza College’s Data Analyst  
+    program, combining formal training with a lifelong coding journey that began with game  
+    development at age 14. Always exploring new technologies and techniques to drive data-driven  
+    decisions.
+  </p>
+
+  <!-- Contact -->
+  <p style="font-size: 0.9em; color: #57606a; margin-top: 1rem;">
+    📧 aviv.uzi@gmail.com &nbsp;|&nbsp;  
+    🔗 <a href="https://www.linkedin.com/in/aviv-uziel-5323851a8" style="color: #0969da; text-decoration: none;">LinkedIn</a>
+  </p>
+
+  <!-- Call to Explore Projects -->
+  <p style="font-size: 1em; margin-top: 2rem; color: #24292e;">
+    Feel free to check out my <strong>Projects Below ⬇️</strong>
+  </p>
+  
+</div>
