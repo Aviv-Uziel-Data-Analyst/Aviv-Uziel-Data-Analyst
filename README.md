@@ -6,7 +6,10 @@
     Data Analyst &amp; Coding Enthusiast
   </h1>
   
-![SQL](https://img.shields.io/badge/SQL-blue) ![Tableau](https://img.shields.io/badge/Tableau-orange) ![Excel](https://img.shields.io/badge/Excel-green) ![Python](https://img.shields.io/badge/Python-yellowgreen) 
+![SQL](https://img.shields.io/badge/SQL-blue) 
+![Tableau](https://img.shields.io/badge/Tableau-orange)
+![Excel](https://img.shields.io/badge/Excel-green)
+![Python](https://img.shields.io/badge/Python-yellowgreen) 
   <!-- Subtitle -->
   <p style="font-size: 1.1em; color: #57606a; margin-top: 0; margin-bottom: 1.5em;">
     Graduate of 
