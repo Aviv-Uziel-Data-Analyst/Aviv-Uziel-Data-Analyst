@@ -34,11 +34,13 @@
     About Me
   </h2>
   <p style="margin-top: 0.5em; margin-bottom: 2rem; font-size: 1em; max-width: 600px; margin-left: auto; margin-right: auto;">
-    Passionate data analyst skilled in turning raw data into actionable insights and building  
-    interactive dashboards. Graduated top of my class (GPA 96) from Analiza College’s Data Analyst  
-    program, combining formal training with a lifelong coding journey that began with game  
-    development at age 14. Always exploring new technologies and techniques to drive data-driven  
-    decisions.
+    <li> Self taught coder since age 14 by creating video games in Unity as a hobby. </li>
+    <li> Graduated top of my class (GPA 96) from Analiza College’s Data Analyst  
+    program </li>
+    <li> Passionate data analyst skilled in turning raw data into actionable insights and building  
+    interactive dashboards. </li>
+    <li> Always exploring new technologies and techniques to drive data-driven  
+    decisions. </li>
   </p>
 
   <!-- Bottom Thick Line -->
