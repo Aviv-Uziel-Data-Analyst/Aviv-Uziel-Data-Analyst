@@ -16,7 +16,7 @@
     Graduate of 
     <a href="https://www.analiza.org.il/data-expert" style="color: #0969da; text-decoration: none;">
       "Analiza College"
-    </a>&nbsp;| GPA 96 | Self-taught Game Dev since 14
+    </a>&nbsp;| GPA 96
   </p>
 
   <!-- Skills Section -->
