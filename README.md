@@ -35,8 +35,7 @@
   </h2>
   <p style="margin-top: 0.5em; margin-bottom: 2rem; font-size: 1em; max-width: 600px; margin-left: auto; margin-right: auto;">
     <li> Self taught coder since age 14 by creating video games in Unity as a hobby. </li>
-    <li> Graduated top of my class (GPA 96) from Analiza College’s Data Analyst  
-    program </li>
+    <li> Attended full "Data Analyst" course on Analiza College, graduated top of my class (GPA 96) </li>
     <li> Passionate data analyst skilled in turning raw data into actionable insights and building  
     interactive dashboards. </li>
     <li> Always exploring new technologies and techniques to drive data-driven  
